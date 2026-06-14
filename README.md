@@ -1,5 +1,7 @@
 # ⏱ Focus Tracker — Releases
 
+Перемещено в https://github.com/tatarinovi/Focus-Tracker
+
 Готовые сборки приложения Focus Tracker для Windows, macOS и Linux.
 
 Исходный код находится в приватном репозитории. Здесь публикуются только собранные файлы.
